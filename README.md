@@ -1,2 +1,2 @@
 # webapp
-- projeto web com Django criado durante aula de Engenharia de Software com professor Daru.
+- Projeto web com Django criado durante matéria de Engenharia de Software 2023/1 com professor Daru.
